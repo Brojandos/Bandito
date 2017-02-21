@@ -5,6 +5,7 @@ import java.util.Random;
  * @author: Brojandos
  * @date: 15.02.2017
  */
+@Deprecated
 public final class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
         // Game settings
